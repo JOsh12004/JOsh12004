@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://josh12004.github.io">
+    <img src="./preview.png" alt="Portfolio" width="600"/>
+  </a>
+</p>
 
-<!--
-**JOsh12004/JOsh12004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Josh E. Deus</strong> · Aspiring IT Professional · Based in Manila
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://josh12004.github.io">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="mailto:jsshdeus@gmail.com">✉️ Email Me</a>
+</p>
